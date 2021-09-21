@@ -1,5 +1,1 @@
-<?php
-
-include once("website.html");
-
-?>
+<?php header('Location: /website.html') ; ?>
